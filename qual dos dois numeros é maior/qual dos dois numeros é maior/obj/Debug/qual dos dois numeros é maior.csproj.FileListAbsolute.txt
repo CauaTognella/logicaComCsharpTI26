@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\bin\Debug\qual dos dois numeros é maior.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\bin\Debug\qual dos dois numeros é maior.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\bin\Debug\qual dos dois numeros é maior.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\obj\Debug\qual dos dois numeros é maior.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\obj\Debug\qual dos dois numeros é maior.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\obj\Debug\qual dos dois numeros é maior.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos dois numeros é maior\qual dos dois numeros é maior\obj\Debug\qual dos dois numeros é maior.pdb

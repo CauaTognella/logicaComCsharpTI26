@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\bin\Debug\peixeriadokjapofp.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\bin\Debug\peixeriadokjapofp.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\bin\Debug\peixeriadokjapofp.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\obj\Debug\peixeriadokjapofp.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\obj\Debug\peixeriadokjapofp.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\obj\Debug\peixeriadokjapofp.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peixeriadokjapofp\peixeriadokjapofp\obj\Debug\peixeriadokjapofp.pdb
