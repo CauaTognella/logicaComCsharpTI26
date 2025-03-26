@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\bin\Debug\calculo_de_idd.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\bin\Debug\calculo_de_idd.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\bin\Debug\calculo_de_idd.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\obj\Debug\calculo_de_idd.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\obj\Debug\calculo_de_idd.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\obj\Debug\calculo_de_idd.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\calculo_de_idd\calculo_de_idd\obj\Debug\calculo_de_idd.pdb

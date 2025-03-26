@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\calculo_de_idd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7E75D0-BC07-4FB9-BF6F-7C3F766126AD}|calculo_de_idd\\calculo_de_idd.csproj|c:\\users\\caua.ltognella\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\calculo_de_idd\\calculo_de_idd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7E75D0-BC07-4FB9-BF6F-7C3F766126AD}|calculo_de_idd\\calculo_de_idd.csproj|solutionrelative:calculo_de_idd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\calculo_de_idd\\calculo_de_idd\\Program.cs",
+              "RelativeDocumentMoniker": "calculo_de_idd\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\calculo_de_idd\\calculo_de_idd\\Program.cs",
+              "RelativeToolTip": "calculo_de_idd\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:50:35.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
