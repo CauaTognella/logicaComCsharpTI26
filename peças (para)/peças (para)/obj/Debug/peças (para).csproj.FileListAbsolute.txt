@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\obj\Debug\peças (para).csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\obj\Debug\peças (para).csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\bin\Debug\peças (para).exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\bin\Debug\peças (para).exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\bin\Debug\peças (para).pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\obj\Debug\peças (para).exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peças (para)\peças (para)\obj\Debug\peças (para).pdb
