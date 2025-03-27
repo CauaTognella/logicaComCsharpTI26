@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\qual dos 3 numeros e maior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D1DD33-167A-4DA9-96DA-1BA4BB08742D}|qual dos 3 numeros e maior\\qual dos 3 numeros e maior.csproj|c:\\users\\caua.ltognella\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\qual dos 3 numeros e maior\\qual dos 3 numeros e maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D1DD33-167A-4DA9-96DA-1BA4BB08742D}|qual dos 3 numeros e maior\\qual dos 3 numeros e maior.csproj|solutionrelative:qual dos 3 numeros e maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\qual dos 3 numeros e maior\\qual dos 3 numeros e maior\\Program.cs",
+              "RelativeDocumentMoniker": "qual dos 3 numeros e maior\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\qual dos 3 numeros e maior\\qual dos 3 numeros e maior\\Program.cs",
+              "RelativeToolTip": "qual dos 3 numeros e maior\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:19:10.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

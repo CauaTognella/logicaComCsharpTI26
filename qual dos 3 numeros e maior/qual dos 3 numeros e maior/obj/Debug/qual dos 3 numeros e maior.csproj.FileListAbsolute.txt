@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\bin\Debug\qual dos 3 numeros e maior.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\bin\Debug\qual dos 3 numeros e maior.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\bin\Debug\qual dos 3 numeros e maior.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\obj\Debug\qual dos 3 numeros e maior.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\obj\Debug\qual dos 3 numeros e maior.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\obj\Debug\qual dos 3 numeros e maior.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\qual dos 3 numeros e maior\qual dos 3 numeros e maior\obj\Debug\qual dos 3 numeros e maior.pdb
