@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\obj\Debug\numero par de 0 a 100 (while).csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\obj\Debug\numero par de 0 a 100 (while).csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\bin\Debug\numero par de 0 a 100 (while).exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\bin\Debug\numero par de 0 a 100 (while).exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\bin\Debug\numero par de 0 a 100 (while).pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\obj\Debug\numero par de 0 a 100 (while).exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\numero par de 0 a 100 (while)\numero par de 0 a 100 (while)\obj\Debug\numero par de 0 a 100 (while).pdb
