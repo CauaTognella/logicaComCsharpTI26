@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\bin\Debug\contagem de 0 a 100 while.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\bin\Debug\contagem de 0 a 100 while.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\bin\Debug\contagem de 0 a 100 while.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\obj\Debug\contagem de 0 a 100 while.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\obj\Debug\contagem de 0 a 100 while.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\obj\Debug\contagem de 0 a 100 while.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contagem de 0 a 100 while\contagem de 0 a 100 while\obj\Debug\contagem de 0 a 100 while.pdb
