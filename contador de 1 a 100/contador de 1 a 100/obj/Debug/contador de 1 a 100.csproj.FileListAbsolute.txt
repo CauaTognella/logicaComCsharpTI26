@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\bin\Debug\contador de 1 a 100.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\bin\Debug\contador de 1 a 100.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\bin\Debug\contador de 1 a 100.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\obj\Debug\contador de 1 a 100.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\obj\Debug\contador de 1 a 100.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\obj\Debug\contador de 1 a 100.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\contador de 1 a 100\contador de 1 a 100\obj\Debug\contador de 1 a 100.pdb

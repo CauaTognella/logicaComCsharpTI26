@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\contador de 1 a 100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C557E0AE-A1C5-4F46-8B78-BF96A814578E}|contador de 1 a 100\\contador de 1 a 100.csproj|c:\\users\\caua.ltognella\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\contador de 1 a 100\\contador de 1 a 100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557E0AE-A1C5-4F46-8B78-BF96A814578E}|contador de 1 a 100\\contador de 1 a 100.csproj|solutionrelative:contador de 1 a 100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\contador de 1 a 100\\contador de 1 a 100\\Program.cs",
+              "RelativeDocumentMoniker": "contador de 1 a 100\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\contador de 1 a 100\\contador de 1 a 100\\Program.cs*",
+              "RelativeToolTip": "contador de 1 a 100\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:15:33.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
