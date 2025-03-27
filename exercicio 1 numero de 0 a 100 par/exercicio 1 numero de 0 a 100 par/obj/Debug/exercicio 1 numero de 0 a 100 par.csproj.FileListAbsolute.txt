@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\bin\Debug\exercicio 1 numero de 0 a 100 par.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\bin\Debug\exercicio 1 numero de 0 a 100 par.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\bin\Debug\exercicio 1 numero de 0 a 100 par.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\obj\Debug\exercicio 1 numero de 0 a 100 par.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\obj\Debug\exercicio 1 numero de 0 a 100 par.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\obj\Debug\exercicio 1 numero de 0 a 100 par.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\exercicio 1 numero de 0 a 100 par\exercicio 1 numero de 0 a 100 par\obj\Debug\exercicio 1 numero de 0 a 100 par.pdb
