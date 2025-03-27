@@ -20,7 +20,7 @@ namespace qual_dos_dois_numeros_é_maior
 
               if(numero1 > numero2)
                 Console.WriteLine("nemero 1 é maior que numero 2");
-                 else{ Console.WriteLine("numero 2 é maior que numero 1");
+                
             
             }
         }

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\numeros entre 20 e 90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{249674A1-DB8A-482B-A76E-3BFFA6C327AA}|numeros entre 20 e 90\\numeros entre 20 e 90.csproj|c:\\users\\caua.ltognella\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\numeros entre 20 e 90\\numeros entre 20 e 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249674A1-DB8A-482B-A76E-3BFFA6C327AA}|numeros entre 20 e 90\\numeros entre 20 e 90.csproj|solutionrelative:numeros entre 20 e 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\numeros entre 20 e 90\\numeros entre 20 e 90\\Program.cs",
+              "RelativeDocumentMoniker": "numeros entre 20 e 90\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\numeros entre 20 e 90\\numeros entre 20 e 90\\Program.cs",
+              "RelativeToolTip": "numeros entre 20 e 90\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:42:56.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
