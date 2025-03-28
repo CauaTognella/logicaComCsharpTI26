@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\maior idade penal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E43D1-DBFB-42AF-82CC-3311E1B7DE81}|maior idade penal\\maior idade penal.csproj|c:\\users\\caua.ltognella\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\maior idade penal\\maior idade penal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20E43D1-DBFB-42AF-82CC-3311E1B7DE81}|maior idade penal\\maior idade penal.csproj|solutionrelative:maior idade penal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\maior idade penal\\maior idade penal\\Program.cs",
+              "RelativeDocumentMoniker": "maior idade penal\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.ltognella\\source\\repos\\logicaComCsharpTi26\\logicaComCsharpTI26\\maior idade penal\\maior idade penal\\Program.cs",
+              "RelativeToolTip": "maior idade penal\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:25:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
