@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\bin\Debug\multiplos de 3 e 5.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\bin\Debug\multiplos de 3 e 5.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\bin\Debug\multiplos de 3 e 5.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\obj\Debug\multiplos de 3 e 5.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\obj\Debug\multiplos de 3 e 5.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\obj\Debug\multiplos de 3 e 5.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\multiplos de 3 e 5\multiplos de 3 e 5\obj\Debug\multiplos de 3 e 5.pdb
