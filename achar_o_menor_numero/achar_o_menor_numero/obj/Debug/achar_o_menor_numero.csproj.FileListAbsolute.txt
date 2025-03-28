@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\obj\Debug\achar_o_menor_numero.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\obj\Debug\achar_o_menor_numero.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\bin\Debug\achar_o_menor_numero.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\bin\Debug\achar_o_menor_numero.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\bin\Debug\achar_o_menor_numero.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\obj\Debug\achar_o_menor_numero.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\achar_o_menor_numero\achar_o_menor_numero\obj\Debug\achar_o_menor_numero.pdb
