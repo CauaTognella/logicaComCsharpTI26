@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\bin\Debug\maior entre 3 numeros 1.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\bin\Debug\maior entre 3 numeros 1.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\bin\Debug\maior entre 3 numeros 1.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\obj\Debug\maior entre 3 numeros 1.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\obj\Debug\maior entre 3 numeros 1.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\obj\Debug\maior entre 3 numeros 1.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\maior entre 3 numeros 1\maior entre 3 numeros 1\obj\Debug\maior entre 3 numeros 1.pdb
