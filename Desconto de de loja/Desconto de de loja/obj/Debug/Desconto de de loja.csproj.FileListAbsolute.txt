@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\bin\Debug\Desconto de de loja.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\bin\Debug\Desconto de de loja.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\bin\Debug\Desconto de de loja.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\obj\Debug\Desconto de de loja.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\obj\Debug\Desconto de de loja.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\obj\Debug\Desconto de de loja.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\Desconto de de loja\Desconto de de loja\obj\Debug\Desconto de de loja.pdb
