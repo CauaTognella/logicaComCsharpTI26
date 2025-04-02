@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\bin\Debug\2 - salario minimo.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\bin\Debug\2 - salario minimo.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\bin\Debug\2 - salario minimo.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\obj\Debug\2 - salario minimo.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\obj\Debug\2 - salario minimo.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\obj\Debug\2 - salario minimo.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\2 - salario minimo\2 - salario minimo\obj\Debug\2 - salario minimo.pdb
