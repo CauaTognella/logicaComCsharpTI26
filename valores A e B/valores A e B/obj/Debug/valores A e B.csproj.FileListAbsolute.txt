@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\bin\Debug\valores A e B.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\bin\Debug\valores A e B.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\bin\Debug\valores A e B.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\obj\Debug\valores A e B.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\obj\Debug\valores A e B.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\obj\Debug\valores A e B.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\valores A e B\valores A e B\obj\Debug\valores A e B.pdb
