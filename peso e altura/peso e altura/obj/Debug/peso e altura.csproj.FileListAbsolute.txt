@@ -1,0 +1,7 @@
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\bin\Debug\peso e altura.exe.config
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\bin\Debug\peso e altura.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\bin\Debug\peso e altura.pdb
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\obj\Debug\peso e altura.csproj.AssemblyReference.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\obj\Debug\peso e altura.csproj.CoreCompileInputs.cache
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\obj\Debug\peso e altura.exe
+C:\Users\caua.ltognella\source\repos\logicaComCsharpTi26\logicaComCsharpTI26\peso e altura\peso e altura\obj\Debug\peso e altura.pdb
