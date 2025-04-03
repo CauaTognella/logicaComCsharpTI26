@@ -23,6 +23,20 @@ Tabela Condições IMC
  Maior ou igual a 40 | Obesidade grau III (mórbida)*/
 
             double peso, altura,PP;
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(@"
+╔═════════════════════════════════════════════════════╗ 
+║                            _     _            _     ║
+║                           (_)   | |          | |    ║
+║    _ __   ___  ___  ___    _  __| | ___  __ _| |    ║
+║   | '_ \ / _ \/ __|/ _ \  | |/ _` |/ _ \/ _` | |    ║
+║   | |_) |  __/\__ \ (_) | | | (_| |  __/ (_| | |    ║ 
+║   | .__/ \___||___/\___/  |_|\__,_|\___|\__,_|_|    ║
+║   | |                                               ║
+║   |_|                                               ║
+╚═════════════════════════════════════════════════════╝
+");
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("escreva seu peso: ");
             PP = double.Parse(Console.ReadLine());
             Console.WriteLine("escreva sua altura: ");

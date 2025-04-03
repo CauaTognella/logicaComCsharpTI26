@@ -16,8 +16,8 @@ namespace _2___salario_minimo
             double sla, slam, qnt;
             Console.WriteLine("digite seu salario: ");
              sla = double.Parse (Console.ReadLine());
-              slam = 1518;
-               qnt = sla / slam;
+              slam =  1518;
+               qnt = (int) (sla / slam);
                  Console.WriteLine("sua quantidade de salarios minimos é: "+ qnt);
 
         }
